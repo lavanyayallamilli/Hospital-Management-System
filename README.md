@@ -1,7 +1,7 @@
 # Hospital Management System (SQL)
 
 ## Project Overview
-This project demonstrates a Hospital Management System database built using MySQL. It manages patients, doctors, appointments, and billing information.
+This project demonstrates a Hospital Management System database built using MySQL. It stores and manages patient, doctor, appointment, and billing information.
 
 ## Database Tables
 - Patients
@@ -31,3 +31,10 @@ This project demonstrates a Hospital Management System database built using MySQ
 ## Tools Used
 - MySQL Workbench
 - GitHub
+
+## Project Features
+- Patient Management
+- Doctor Management
+- Appointment Tracking
+- Billing Management
+- Data Analysis using SQL Queries
